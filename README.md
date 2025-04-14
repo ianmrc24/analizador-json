@@ -1,6 +1,8 @@
-
 # Analizador Léxico para JSON Simplificado
-
+## Autores:
+1. Ian Delvalle 5550211
+2. Matias Gaona 4553979
+   
 Este proyecto implementa un **analizador léxico** para el lenguaje **JSON simplificado** en C. El programa toma un archivo fuente en formato JSON, analiza los tokens y genera un archivo de salida con la secuencia de componentes léxicos encontrados. En caso de error léxico, se imprime un mensaje de error y se continúa con la siguiente línea del archivo.
 
 ## Características
